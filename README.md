@@ -20,7 +20,7 @@ Simple and interactive command-line interface
 ## How to Run
 Run the Python script
 
-python price_checker.py
+price_checking_machine.py
 
 Follow the on-screen prompts
 
