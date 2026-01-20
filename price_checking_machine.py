@@ -1,4 +1,4 @@
-#A machine that takes user input for product name and tells the price of the product if it's available in the list
+# A machine that takes user input for product name and tells the price of the product if it's available in the list
 
 products = {
     "Apple": 100,
@@ -19,3 +19,5 @@ while True:
     if product_name.lower() == 'quit':
         break
     print(get_product_price(product_name.capitalize()))
+
+
